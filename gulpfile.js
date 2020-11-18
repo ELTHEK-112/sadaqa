@@ -13,7 +13,7 @@ elixir(function (mix){
                  'css/app.css','bower/vendor/slick-carousel/slick/slick.css'
                 
              ], 'htdocs/css/all.css', 'resources/assets'
-                   
+                
       );
       var bowerpath = 'bower/vendor';
       mix.scripts(
